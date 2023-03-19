@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OrangutanCrypto
 - 👀 I’m interested in blockchain Technology, muiltrotor drones and 3D design and AI
 - 🌱 I’m currently learning all I can to become a fullstack DEV
-- 💞️ I’m looking to collaborate on blockchain projects
+- 💞️ I’m looking to collaborate on blockchain projects and AI robotics 
 - 📫 How to reach me orangcoin@gmail.com
 
 <!---
